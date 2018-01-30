@@ -1,1 +1,1 @@
-print("Congratulations, your shit is not awesome.")
+print("Congratulations, your shit is now awesome.")
